@@ -3,5 +3,5 @@ Simple Calculator for Basic Arithematics operation using html, css and javascrip
 <br>
 <br>
 <br>
-<br>
+<hr>
 [Go and check it out by your own](https://numbercrunched.netlify.app/)
